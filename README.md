@@ -1,37 +1,24 @@
-![logo](img/LogoPage.png)
-In this repository, we are sharing our developed test-bed and captured user data that we hope will enable in creating more immersive virtual reality experiences. This repository is for open source codes and materials for the QoMEX 2018 paper: Visual Attention in *omnidirectional video (ODV)* for *virtual reality (VR)* Applications
+In this repository, we are sharing our developed 360-degree Audio-Visual Dataset (360AVD) that we hope will foster further research in multimedia signal processing area. This repository contains materials for the paper: *Towards generating ambisonics using audio-visual cue for virtual reality*
 
 ### Abstract
-Understanding of visual attention is crucial for ODV viewed for instance with a head-mounted display (HMD), where only a fraction of an ODV is rendered at a time. Transmission and rendering of ODV can be optimized by understanding how viewers consume a given ODV in VR applications. In order to predict video regions that might draw the attention of viewers, *saliency maps* can be estimated by using computational visual attention models. As no such model currently exists for ODV, but given the importance for emerging ODV applications, we create a new visual attention user dataset for ODV, investigate behavior of viewers when consuming the content, and analyze the prediction performance of state-of-the-art visual attention models. Our developed test-bed and dataset will be publicly available with this paper, to stimulate and support research on ODV.
-
-### Test-bed
-
-![testbed](img/testbed.png)
-
+will be available after the paper acceptance
 ### Results
-![result](img/result.png)
+will be available after the paper acceptance
 
 ### Downloads
-[DataSet](https://github.com/cozcinar/omniAttention/blob/master/dataset.tar.gz)
+will be available soon.
+
+A sample of Ambisonics estimation using the proposed pipeline can be find with the following link:
+
+[v10_c3_3][https://github.com/V-Sense/360AudioVisual/demo/v10_spa.mp4]
 
 ### Citation
 
-| ![qomex logo](img/qomexLogo.png) | Paper accepted in [10th International Conference on Quality of Multimedia Experience (QoMEX 2018) ](https://www.qomex2018.org/) |
-
-Please cite our [paper](https://github.com/cozcinar/omniAttention/blob/master/OmniAttention2018.pdf) in your publications if it helps your research:
-````
-@inproceedings{Ozcinar2018,
-title = {Visual Attention in Omnidirectional Video for Virtual Reality Applications},
-author = {Cagri Ozcinar and Aljosa Smolic},
-year = {2018},
-date = {2018-05-29},
-booktitle = {10th International Conference on Quality of Multimedia Experience (QoMEX 2018)}
-}
-````
-
 ### Authors
 
-| [Cagri Ozcinar][CagriOzcinar-web] | [Aljosa Smolic][AljosaSmolic-web] |
+| [Aakanksha Rana][Aakanksha-web] | [Cagri Ozcinar][CagriOzcinar-web] | [Aljosa Smolic][AljosaSmolic-web] |
+
+[Aakanksha-web]: (https://v-sense.scss.tcd.ie/?profile=template_profile)
 
 [CagriOzcinar-web]: (https://www.scss.tcd.ie/~ozcinarc/)
 
@@ -43,4 +30,4 @@ This publication has emanated from research conducted with the financial support
 
 ### Contact
 
-If you have any question, send an e-mail at [ozcinarc@scss.tcd.ie]()
+If you have any question, send an e-mail at [ozcinarc@scss.tcd.ie]() or [ranaa@scss.tcd.ie]()
