@@ -10,7 +10,7 @@ will be available soon.
 
 A sample of Ambisonics estimation using the proposed pipeline can be find with the following link:
 
-[v10_c3_3][https://github.com/V-Sense/360AudioVisual/demo/v10_spa.mp4]
+[v10_c3_3][https://github.com/V-Sense/360AudioVisual/blob/master/demo/v10_spa.mp4]
 
 ### Citation
 
