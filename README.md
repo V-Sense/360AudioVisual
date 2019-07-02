@@ -4,7 +4,7 @@ In this repository, we are sharing our developed 360-degree Audio-Visual Dataset
 
 Ambisonics *i.e.,* a full-sphere surround sound, is quintessential with 360-degree visual content to provide a realistic virtual reality (VR) experience. While 360-degree visual content capture gained a tremendous boost recently, the estimation of corresponding spatial sound is still challenging due to the required sound-field microphones or information about the sound-source locations. In this paper, we introduce a novel problem of generating Ambisonics in 360-degree videos using the audiovisual cue. With this aim, firstly, a novel 360-degree audio-visual video dataset of 265 videos is introduced with annotated sound-source locations. Secondly, a pipeline is designed for an automatic Ambisonic estimation problem. Benefiting from the deep learning based audiovisual feature-embedding and prediction modules, our pipeline estimates the 3D sound-source locations and further use such locations to encode to the B-format. To benchmark our dataset and pipeline, we additionally propose evaluation criteria to investigate the performance using different 360-degree input representations. Our results demonstrate the efficacy of the proposed pipeline and open up a new area of research in 360-degree audio-visual analysis for future investigations.
 
-### Results
+### Pipeline
 ![logo](img/pipeline.png)
 
 ### Downloads
@@ -19,7 +19,7 @@ A sample of Ambisonics estimation using the proposed pipeline can be find with t
 
 Please cite our [paper](https://v-sense.scss.tcd.ie/wp-content/uploads/2019/02/ICASSP2019_multimodal.pdf) in your publications if it helps your research:
 ````
-@inproceedings{streamingVAODV,
+@inproceedings{multimodal2019,
 author={A. {Rana} and C. {Ozcinar} and A. {Smolic}}, 
 booktitle={ICASSP 2019 - 2019 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)}, 
 title={Towards Generating Ambisonics Using Audio-visual Cue for Virtual Reality}, 
